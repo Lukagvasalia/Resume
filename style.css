@@ -1,0 +1,80 @@
+
+@media (min-width: 992px) {
+  .boll{
+    max-width: 100%;
+    height: auto;
+  }
+}
+@media (min-width:576px) {
+  .boll{
+    width: 100%;
+    height: auto;
+  }
+  
+}
+
+
+.boll{
+    background: linear-gradient(300deg, black,black);
+    max-width: 100%;
+}  
+
+
+
+
+
+h1{
+    color: azure;
+    font-size: 80px;
+}
+h2{
+    color: azure;
+    font-size: 80px;
+   }
+   
+   .circle {
+    height: 300px;
+    width: 300;
+    border-radius:50%;
+    
+  } 
+  p{font-size: 45px;}
+
+  .lead{
+    font-size: 30px; 
+    color: blue;
+  }
+  .text-muted{
+    font-size: 35px;
+    
+  }
+  .erti{
+    background-color:skyblue;
+    border-radius: 45%;
+    height: 50px;
+    width:170px;
+  }
+  .bottom-container {
+    background-color: #66bfbf;
+    padding:5px;
+    width:100%;
+    
+    
+    
+  
+  }
+    
+  body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.copyright{font-size: 20px;}
+
+  
+
+
+
+ 
+  
